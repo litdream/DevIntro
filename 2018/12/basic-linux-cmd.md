@@ -1,8 +1,20 @@
-# Basic Linux Commands
+<!-- vscode-markdown-toc -->
+	* 1. [pwd](#pwd)
+	* 2. [ls](#ls)
+	* 3. [cd](#cd)
+	* 4. [mkdir](#mkdir)
+	* 5. [rmdir](#rmdir)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># Basic Linux Commands
+
 
 After logged in, get used to following commands.
 
-### pwd
+###  1. <a name='pwd'></a>pwd
 Print Working Directory.  This will tell where you are located in directory tree.
 
 ```
@@ -10,7 +22,7 @@ Print Working Directory.  This will tell where you are located in directory tree
 /Users/rychung/github/DevIntro
 ```
 
-### ls
+###  2. <a name='ls'></a>ls
 List all files in current directory.
 Simply "ls" will show name only.
 Adding a switch(-l), "ls -l" will show other information, such as Size.
@@ -30,7 +42,7 @@ drwxr-xr-x  3 rychung  1896053708   102 Dec 27 19:47 2019
 
 ```
 
-### cd
+###  3. <a name='cd'></a>cd
 Change Directory.
 Simply "cd" will always come back to your home directory.
 If a directory name is given, cd will change the current location to the name given.
@@ -68,7 +80,7 @@ drwxr-xr-x  3 rychung  1896053708   102 Dec 27 19:47 2019
 /Users/rychung/github/DevIntro
 ```
 
-### mkdir
+###  4. <a name='mkdir'></a>mkdir
 
 Create a new directory.  Name is required.
 
@@ -90,7 +102,7 @@ drwxr-xr-x  3 rychung  1896053708  102 Dec 27 19:21 vscode
 ```
 
 
-### rmdir
+###  5. <a name='rmdir'></a>rmdir
 
 Remove a directory.  Only empty directory can be removed.
 We will talk about removing files and directories seperately.
