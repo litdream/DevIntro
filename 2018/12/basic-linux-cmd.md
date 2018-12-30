@@ -9,7 +9,9 @@
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># Basic Linux Commands
+<!-- /vscode-markdown-toc -->
+
+# Basic Linux Commands
 
 
 After logged in, get used to following commands.
