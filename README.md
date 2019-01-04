@@ -24,3 +24,9 @@ By this time, you may work on `nfs_quiz` software.
 And, I am sure that you are tired of repeating your questions code.  You don't have to finish the `nfs_quiz`.  We will cover your first obstacle, the function.  The second obstacle (array and list) will be covered the next.
 
 [Basic Function](2018/12/basic-function.md)
+
+## 2018-01-04:  function, part 2.
+
+What is return statement?
+
+[Return statement](2019/01/return-1.md)
