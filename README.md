@@ -25,8 +25,13 @@ And, I am sure that you are tired of repeating your questions code.  You don't h
 
 [Basic Function](2018/12/basic-function.md)
 
-## 2018-01-04:  function, part 2.
+## 2019-01-04:  function, part 2.
 
 What is return statement?
 
 [Return statement](2019/01/return-1.md)
+
+## 2019-08-03:  Use Examples
+
+[basic](https://www.programiz.com/python-programming/examples)
+[fundamental](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
