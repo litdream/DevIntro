@@ -36,3 +36,7 @@ What is return statement?
 [basic](https://www.programiz.com/python-programming/examples)
 
 [fundamental](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
+
+### Print function
+
+[how to use print function](2019/08/print-function.md)
