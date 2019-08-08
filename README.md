@@ -3,6 +3,7 @@
 <!-- vscode-markdown-toc -->
 * 1. [2018-12-28: Basic Linux Terminal commands.](#BasicLinuxTerminalcommands.)
 * 2. [2018-12-29: Basic Visual Studio Code](#BasicVisualStudioCode)
+* 3. [ 2018-12-30:  Basic if-else statements and function, part 1.](#2018-12-30:Basicif-elsestatementsandfunctionpart1.)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -27,7 +28,7 @@ Our intepreter can be any Python 3.x version.
 
 [Basic VSCode](2018/12/basic-vscode.md)
 
-##  2018-12-30:  Basic if-else statements and function, part 1.
+##  3. <a name='2018-12-30:Basicif-elsestatementsandfunctionpart1.'></a> 2018-12-30:  Basic if-else statements and function, part 1.
 
 By this time, you may work on `nfs_quiz` software.
 And, I am sure that you are tired of repeating your questions code.  You don't have to finish the `nfs_quiz`.  We will cover your first obstacle, the function.  The second obstacle (array and list) will be covered the next.

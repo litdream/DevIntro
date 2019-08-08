@@ -72,5 +72,12 @@ if __name__ == "__main__":
 
 ```
 
-This is the exactly how you use "Block" in Scratch.
+The function "solution" has 5 parameters, explaining in order:
+- q : question number
+- a : first term of the math expression.
+- b : second
+- c : third
+- d : fourth
+
+This is similar to how you use "Block" in Scratch.
 Python will provide different ways to use Functions.  Stay tuned.
