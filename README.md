@@ -11,6 +11,9 @@ We are going to use Visual Studio Code for our main tool, on a Linux box.
 
 [how to use IDLE](2019/08/idle.md)
 
+### Python list
+
+[Python List](2019/08/py-list.md)
 
 
 ## 2019-08-03:  Use Examples
