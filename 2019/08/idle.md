@@ -23,6 +23,10 @@ Open windows menu -> Find a 3.x version of Python -> IDLE
 
 Next to Windows Menu, type "IDLE" in the Search box.  Any 3.x IDLE will work.
 
+### Using Chrome book:
+
+[Python shell in browser](https://www.python.org/shell/)
+[IPython shell (another version of interactive python)](https://www.pythonanywhere.com/try-ipython/)
 
 ## Useful IDLE commands.
 
