@@ -5,6 +5,12 @@
 This repository is for set of tutorials for my son, using linux and dev environment.
 We are going to use Visual Studio Code for our main tool, on a Linux box.
 
+
+## 2019-09-24: Beginning Arcade library 
+
+[Arcade tutorial](https://arcade-book.readthedocs.io/en/latest/chapters/06_drawing/drawing.html)
+
+
 ## 2019-08-16: A structure of program
 
 [Simple example of popular structure of a program](2019/08/program-struct.md)
